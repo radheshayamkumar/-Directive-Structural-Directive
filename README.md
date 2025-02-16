@@ -1,4 +1,5 @@
 # Bootstrap Styled Angular Page
+![Learn Angular with Me](public/Screenshot%20(581).png)
 
 ## Project Overview
 This project is a Bootstrap-styled web page with Angular directives integrated. It features a responsive design with styled `div` elements, interactive buttons, and dynamic content using Angular's `*ngIf` and `*ngFor` directives. The navbar includes the developer's name and a phrase to engage users in learning Angular.
